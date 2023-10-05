@@ -3,6 +3,7 @@ public class GitClass {
 //message git
     //message#3
     //practising Git and GitHub
+    //changes from new branch
 
 
 
