@@ -6,6 +6,7 @@ public class GitClass {
     //changes from new branch
     //practise changes
     //hello message
+    //hello message2
 
 
 
