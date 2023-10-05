@@ -5,6 +5,7 @@ public class GitClass {
     //practising Git and GitHub
     //changes from new branch
     //practise changes
+    //hello message
 
 
 
