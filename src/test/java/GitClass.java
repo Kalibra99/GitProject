@@ -2,6 +2,8 @@ public class GitClass {
     //some comment
 //message git
     //message#3
+    //practising Git and GitHub
+
 
 
 }
