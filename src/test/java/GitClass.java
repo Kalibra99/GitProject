@@ -4,6 +4,7 @@ public class GitClass {
     //message#3
     //practising Git and GitHub
     //some new changes
+    //another new changes
 
 
 
